@@ -13,22 +13,11 @@
     "tiktok"
   ],
   "generated_licenses": {
-    "PRM-20260415-UCV7Z-KJE1B": {
-      "license_key": "PRM-20260415-UCV7Z-KJE1B",
+    "PRM-20260415-J7TH8-HIHUD": {
+      "license_key": "PRM-20260415-J7TH8-HIHUD",
       "type": "Premium",
       "customer": "Unknown",
-      "created_at": "2026-04-15T23:10:38.262576",
-      "expiry": "2027-04-15",
-      "duration_days": 365,
-      "max_devices": 1,
-      "status": "active",
-      "used_devices": []
-    },
-    "PRM-20260415-5VEAF-U518C": {
-      "license_key": "PRM-20260415-5VEAF-U518C",
-      "type": "Premium",
-      "customer": "Unknown",
-      "created_at": "2026-04-15T23:15:44.378488",
+      "created_at": "2026-04-15T23:19:09.331276",
       "expiry": "2027-04-15",
       "duration_days": 365,
       "max_devices": 1,
