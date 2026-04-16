@@ -3,5 +3,7 @@
   "version": "1.0",
   "status": "active",
   "expiry": "2026-12-31",
-  "features": ["youtube", "vimeo", "facebook", "instagram", "tiktok"]
+  "features": ["youtube", "vimeo", "facebook", "instagram", "tiktok"],
+  "one_device": true,
+  "show_license": false
 }
