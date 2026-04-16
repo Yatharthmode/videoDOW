@@ -34,6 +34,28 @@
       "max_devices": 1,
       "status": "active",
       "used_devices": []
+    },
+    "LFT-20260415-5JO3M-QUL9X": {
+      "license_key": "LFT-20260415-5JO3M-QUL9X",
+      "type": "Lifetime",
+      "customer": "Unknown",
+      "created_at": "2026-04-15T23:03:25.997454",
+      "expiry": "2027-04-15",
+      "duration_days": 365,
+      "max_devices": 5,
+      "status": "active",
+      "used_devices": []
+    },
+    "PRM-20260415-C4L9R-PVJ1W": {
+      "license_key": "PRM-20260415-C4L9R-PVJ1W",
+      "type": "Premium",
+      "customer": "Unknown",
+      "created_at": "2026-04-15T23:05:54.635688",
+      "expiry": "2027-04-15",
+      "duration_days": 365,
+      "max_devices": 1,
+      "status": "active",
+      "used_devices": []
     }
   }
 }
