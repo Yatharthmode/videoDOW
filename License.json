@@ -1,23 +1,14 @@
 {
-  "license_key": "MASTER_KEY_FOR_VERIFICATION",
-  "version": "3.0.0",
-  "status": "active",
-  "expiry": "2026-12-31",
-  "one_device": true,
-  "features": [
-    "youtube",
-    "vimeo",
-    "facebook",
-    "instagram",
-    "twitter",
-    "tiktok"
-  ],
+  "version": "3.0",
+  "last_updated": "2026-04-15T23:37:34.687618",
+  "total_licenses": 1,
+  "active_licenses": 1,
   "generated_licenses": {
-    "PRM-20260415-J7TH8-HIHUD": {
-      "license_key": "PRM-20260415-J7TH8-HIHUD",
+    "PRM-20260415-1WK4F-59P9N": {
+      "license_key": "PRM-20260415-1WK4F-59P9N",
       "type": "Premium",
-      "customer": "Unknown",
-      "created_at": "2026-04-15T23:19:09.331276",
+      "customer": "yttt",
+      "created_at": "2026-04-15T23:37:24.710371",
       "expiry": "2027-04-15",
       "duration_days": 365,
       "max_devices": 1,
