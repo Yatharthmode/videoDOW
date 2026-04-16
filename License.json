@@ -1,5 +1,5 @@
 {
-  "license_key": "YT_VIDEO_PRO_&TEST_SERVER",
+  "license_key": "MASTER_KEY_FOR_VERIFICATION",
   "version": "2.0.0",
   "status": "active",
   "expiry": "2026-12-31",
@@ -11,76 +11,41 @@
     "facebook",
     "instagram",
     "twitter",
-    "tiktok",
-    "dailymotion",
-    "twitch",
-    "soundcloud",
-    "reddit",
-    "linkedin",
-    "pinterest",
-    "telegram",
-    "whatsapp",
-    "snapchat"
+    "tiktok"
   ],
-  "quality_options": [
-    "2160p",
-    "1440p",
-    "1080p",
-    "720p",
-    "480p",
-    "360p",
-    "audio_only"
-  ],
-  "max_downloads_per_day": 1000,
-  "max_concurrent_downloads": 5,
-  "supports_playlists": true,
-  "supports_subtitles": true,
-  "supports_thumbnails": true,
-  "supports_metadata": true,
-  "update_url": "https://raw.githubusercontent.com/Yatharthmode/videoDOW/main/updates.json",
-  "support_email": "support@videodownloader.com",
-  "created_at": "2024-01-01T00:00:00Z",
-  "last_updated": "2024-12-15T10:30:00Z",
-  "license_details": {
-    "type": "premium",
-    "duration": "2 years",
-    "auto_renew": false,
-    "refundable": false,
-    "transferable": false
-  },
-  "allowed_domains": [
-    "youtube.com",
-    "youtu.be",
-    "vimeo.com",
-    "facebook.com",
-    "fb.watch",
-    "instagram.com",
-    "twitter.com",
-    "x.com",
-    "tiktok.com",
-    "dailymotion.com",
-    "twitch.tv",
-    "soundcloud.com",
-    "reddit.com",
-    "linkedin.com"
-  ],
-  "restricted_countries": [
-    "cuba",
-    "north korea",
-    "syria",
-    "iran"
-  ],
-  "server_config": {
-    "license_server": "https://api.videodownloader.com/verify",
-    "backup_server": "https://backup.videodownloader.com/verify",
-    "activation_endpoint": "/api/activate",
-    "validation_endpoint": "/api/validate"
-  },
-  "messages": {
-    "welcome": "Welcome to Video Downloader PRO!",
-    "expired": "Your license has expired. Please renew to continue using PRO features.",
-    "device_limit": "License already activated on another device.",
-    "invalid": "Invalid license key. Please check and try again.",
-    "success": "License activated successfully!"
+  "generated_licenses": {
+    "PRM-20260415-IU006-WU3XX": {
+      "license_key": "PRM-20260415-IU006-WU3XX",
+      "type": "Premium",
+      "customer": "Unknown",
+      "created_at": "2026-04-15T22:33:22.157220",
+      "expiry": "2027-04-15",
+      "duration_days": 365,
+      "max_devices": 1,
+      "status": "active",
+      "used_devices": []
+    },
+    "PRM-20260415-1DXZZ-E6OH3": {
+      "license_key": "PRM-20260415-1DXZZ-E6OH3",
+      "type": "Premium",
+      "customer": "Unknown",
+      "created_at": "2026-04-15T22:36:25.636711",
+      "expiry": "2027-04-15",
+      "duration_days": 365,
+      "max_devices": 1,
+      "status": "active",
+      "used_devices": []
+    },
+    "PRM-20260415-OK8DD-257PS": {
+      "license_key": "PRM-20260415-OK8DD-257PS",
+      "type": "Premium",
+      "customer": "Unknown",
+      "created_at": "2026-04-15T22:39:02.147641",
+      "expiry": "2027-04-15",
+      "duration_days": 365,
+      "max_devices": 1,
+      "status": "active",
+      "used_devices": []
+    }
   }
 }
