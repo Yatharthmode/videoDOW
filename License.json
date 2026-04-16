@@ -23,6 +23,17 @@
       "max_devices": 1,
       "status": "active",
       "used_devices": []
+    },
+    "PRM-20260415-HHJC9-BNSEA": {
+      "license_key": "PRM-20260415-HHJC9-BNSEA",
+      "type": "Premium",
+      "customer": "YTRAJA",
+      "created_at": "2026-04-15T22:56:37.765128",
+      "expiry": "2027-04-15",
+      "duration_days": 365,
+      "max_devices": 1,
+      "status": "active",
+      "used_devices": []
     }
   }
 }
